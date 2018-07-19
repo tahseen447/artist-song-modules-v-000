@@ -14,8 +14,5 @@ module Memorable
       self.class.all << self
     end
   end
-  def reset_all
-    all.clear
-  end
 
 end

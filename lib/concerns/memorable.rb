@@ -1,4 +1,5 @@
 module Memorable
+<<<<<<< HEAD
   module ClassMethods
     def reset_all
       self.all.clear
@@ -14,4 +15,15 @@ module Memorable
       self.class.all << self
     end
   end
+=======
+
+  def reset_all
+    all.clear
+  end
+
+  def count
+    count
+  end
+
+>>>>>>> be1ad581998e0f1a3b8d9929ea05147f42f9d3a2
 end

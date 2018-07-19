@@ -18,8 +18,4 @@ module Memorable
     all.clear
   end
 
-  def count
-    count
-  end
-
 end

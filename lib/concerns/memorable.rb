@@ -22,5 +22,4 @@ module Memorable
     count
   end
 
->>>>>>> be1ad581998e0f1a3b8d9929ea05147f42f9d3a2
 end
